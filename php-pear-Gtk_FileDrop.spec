@@ -8,7 +8,7 @@
 Summary:	%{_pearname} - Make Gtk widgets accept file drops
 Name:		php-pear-%{_pearname}
 Version:	1.0.2
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
