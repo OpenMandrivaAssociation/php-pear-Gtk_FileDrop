@@ -8,7 +8,7 @@ Release:	5
 Summary:	Make Gtk widgets accept file drops
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Gtk_FileDrop/
+URL:		https://pear.php.net/package/Gtk_FileDrop/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
